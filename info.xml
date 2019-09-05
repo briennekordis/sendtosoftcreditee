@@ -19,6 +19,10 @@
   <develStage>alpha</develStage>
   <compatibility>
     <ver>5.16</ver>
+  <requires>
+    <ext>org.civicoop.civirules</ext>
+    <ext>org.civicoop.emailapi</ext>
+  </requires>
   </compatibility>
   <comments></comments>
   <civix>
