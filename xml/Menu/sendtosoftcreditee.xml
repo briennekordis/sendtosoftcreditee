@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/civirules/actions/emailapi_softcreditee</path>
+    <page_callback>CRM_Sendtosoftcreditee_Form_CivirulesAction_SendToSoftCreditee</page_callback>
+    <title>Send E-mail to Soft Creditee (civirules action)</title>
+    <access_arguments>access CiviCRM</access_arguments>
+    <access_arguments>administer CiviCRM</access_arguments>
+  </item>
+</menu>
